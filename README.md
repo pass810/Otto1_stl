@@ -1,6 +1,12 @@
 # Otto1 stl files
 
-These are stl files of Otto1?.
+Otto1（ESP32)の3Dデータです。　　
 
-https://twitter.com/pass810/
+回路図は　　
+![Alt text](/path/to/img.jpg "Circuit diagram")
+
+組立図は　　
+![Alt text](/path/to/img.jpg "Assembly drawing")
+
+です。
 
